@@ -1,7 +1,7 @@
 # main
 Labcontrol
 
-<p align="center"><a href="http://www.labcontrol.xyz/dokuwiki" target="_blank" rel="noopener"><img src="images/cover.png" alt="Labcontrol.xyz"></a></p>
+<p align="center"><a href="http://www.labcontrol.xyz/dokuwiki" target="_blank" rel="noopener"><img src="images/logo.png"></a></p>
 
 # [Labcontrol, Brazil](http://www.labcontrol.xyz/dokuwiki)
 
